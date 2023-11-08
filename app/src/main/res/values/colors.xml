@@ -17,10 +17,10 @@
     <color name="whiteInverseTrans90">#E6000000</color>
 
     <!--Black-->
-    <color name="black">#FF0055</color>
-    <color name="blackTrans90">#FF0055</color>
-    <color name="blackTrans80">#CCFF0055</color>
-    <color name="blackTrans50">#80FF0055</color>
+    <color name="black">#</color>
+    <color name="blackTrans90">#FFFFFF</color>
+    <color name="blackTrans80">#CCFFFFFF</color>
+    <color name="blackTrans50">#80FFFFFF</color>
     <color name="blackInverse">#FFFFFF</color>
     <color name="blackInverseTrans10">#1AFFFFFF</color>
     <color name="blackInverseTrans25">#40FFFFFF</color>
